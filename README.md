@@ -11,4 +11,6 @@ As to the second part of my criticism, I'm left feeling apathetic about using Bo
 
 As much as this sounds like a griping session, I do genuinely believe this assignment to be helpful. Remembering that correlation between frustration and learning, I do feel a lot more knowledgeable in the fields of HTML, CSS, and Bootstrap. But... as good as a learning lesson the experience was, it left me not wanting to repeat it. For every contrived minute of floundering I experienced on this project, I'll have 30 more minutes on upcoming projects. Instances that can only really be experienced in order to understand them. But why waste that time? Why make something challenging and (a little bit) convoluted with HTML and CSS, challenging and even more convoluted with adding Bootstrap into the mix? Perhaps the mobile responsiveness is such a positive that it's given more weight than the other stated benefit?
 
+Even saying this, I'm still submitting an assignment that's obviously incomplete when given a glance. The correct way for setting a sticky footer still eludes me, and I was again unable to get border dividers to work. I had no idea had to alter the CSS code given in order for it to be compatible with Bootstrap. IT's emblematic of my problem with this assignment.
+
 And so ends my novel. Thanks for your patience.
